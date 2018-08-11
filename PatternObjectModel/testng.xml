@@ -4,10 +4,10 @@
   <test name="Test">
     <classes>
       <class name="testcases.TC001_LogIn"/>
-      <class name="testcases.TC002_CreateLead"/>
+      <!-- <class name="testcases.TC002_CreateLead"/>
       <class name="testcases.TC003_EditLead"/>
       <class name="testcases.TC005_MergeLead"/>
-      <class name="testcases.TC004_DeleteLead"/>
+      <class name="testcases.TC004_DeleteLead"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
